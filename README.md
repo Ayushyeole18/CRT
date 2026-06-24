@@ -152,7 +152,7 @@ cd "Day-16,17,18,19 Spring Boot Project"
 ## 🤝 Connect
 
 **Himanshu Walde**
-- GitHub: [@himanshuwalde](https://github.com/himanshuwalde)
+- GitHub: [@Ayushyeole18](https://github.com/Ayushyeole18)
 
 ---
 
